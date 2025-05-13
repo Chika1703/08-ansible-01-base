@@ -1,0 +1,20 @@
+- name: Manage Docker containers
+  hosts: localhost
+  tasks:
+    - name: Ensure centos7 container is running
+      community.docker.docker_container:
+        name: centos7
+        image: centos:7
+        state: started
+        restart_policy: unless-stopped
+        command: "sleep 3600"
+        privileged: yes
+
+    - name: Ensure ubuntu container is running
+      community.docker.docker_container:
+        name: ubuntu
+        image: ubuntu
+        state: started
+        restart_policy: unless-stopped
+        command: "sleep 3600"
+        privileged: yes
