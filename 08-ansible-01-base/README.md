@@ -157,7 +157,7 @@ some_fact: "el default fact"
   ![Пункт 1](https://github.com/Chika1703/08-ansible-01-base/blob/main/08-ansible-01-base/img/1.jpg)
 
 * **Пункт 2: Изменённое значение `some_fact` в group\_vars/all**
-  ![Пункт 2](https://github.com/Chika1703/08-ansible-01-base/blob/main/08-ansible-01-base/img/2.png)
+  ![Пункт 2](https://github.com/Chika1703/08-ansible-01-base/blob/main/08-ansible-01-base/img/2.jpg)
 
 * **Пункт 3–4: Запуск контейнеров и получение фактов по prod.yml**
   ![Пункты 3–4](https://github.com/Chika1703/08-ansible-01-base/blob/main/08-ansible-01-base/img/3.png)
