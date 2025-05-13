@@ -160,13 +160,13 @@ some_fact: "el default fact"
   ![Пункт 2](https://github.com/Chika1703/08-ansible-01-base/blob/main/08-ansible-01-base/img/2.jpg)
 
 * **Пункт 3–4: Запуск контейнеров и получение фактов по prod.yml**
-  ![Пункты 3–4](https://github.com/Chika1703/08-ansible-01-base/blob/main/08-ansible-01-base/img/3.png)
+  ![Пункты 3–4](https://github.com/Chika1703/08-ansible-01-base/blob/main/08-ansible-01-base/img/3.jpg)
 
 * **Пункт 5–6: Значения `some_fact` после настройки групп el и deb**
-  ![Пункты 5–6](https://github.com/Chika1703/08-ansible-01-base/blob/main/08-ansible-01-base/img/4.png)
+  ![Пункты 5–6](https://github.com/Chika1703/08-ansible-01-base/blob/main/08-ansible-01-base/img/4.jpg)
 
 * **Пункт 7–8: Зашифрованные group\_vars и успешный запуск с vault-паролем**
-  ![Пункты 7–8](https://github.com/Chika1703/08-ansible-01-base/blob/main/08-ansible-01-base/img/5.png)
+  ![Пункты 7–8](https://github.com/Chika1703/08-ansible-01-base/blob/main/08-ansible-01-base/img/5.jpg)
 
 * **Пункт 9: Список и описание плагина подключения**
   Команды:
@@ -177,7 +177,7 @@ some_fact: "el default fact"
   ```
 
 * **Пункт 10–11: Группа `local` и успешная работа всех facts**
-  ![Пункты 10–11](https://github.com/Chika1703/08-ansible-01-base/blob/main/08-ansible-01-base/img/7.png)
+  ![Пункты 10–11](https://github.com/Chika1703/08-ansible-01-base/blob/main/08-ansible-01-base/img/7.jpg)
 
 ---
 
